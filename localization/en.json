@@ -1,7 +1,6 @@
 {
     "display": "English",
     "locale": "en-US",
-    
     "loading": "Loading ...",
     "nobody": "(nobody)",
     "info.lastUpdate": "Last update:",
@@ -240,6 +239,7 @@
     "award.kill_piglin.title": "Kill or Be Killed",
     "award.kill_piglin_brute.desc": "Piglin Brutes killed",
     "award.kill_piglin_brute.title": "Brutal",
+    "award.kill_player": "Murderer",
     "award.kill_polar_bear.desc": "Polar Bears killed",
     "award.kill_polar_bear.title": "Polar Hunter",
     "award.kill_rabbit.desc": "Rabbits killed",
@@ -358,6 +358,7 @@
     "award.place_cactus.title": "Cactus Farmer",
     "award.place_candle.desc": "Candles placed",
     "award.place_candle.title": "Candlelight Dinner",
+    "award.place_cobblestone": "Why Cobble Here?",
     "award.place_chorus_flower.desc": "Chorus Flowers planted",
     "award.place_chorus_flower.title": "Chorus Farmer",
     "award.place_conveyor.desc": "Hoppers and droppers placed",
